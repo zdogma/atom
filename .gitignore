@@ -1,0 +1,8 @@
+storage
+compile-cache
+.npm
+.node-gyp
+packages
+.DS_Store
+npm-debug.log
+/.apm/

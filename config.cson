@@ -1,0 +1,40 @@
+"*":
+  editor:
+    showIndentGuide: true
+    invisibles: {}
+  core:
+    themes: [
+      "atom-dark-ui"
+      "monokai"
+    ]
+    projectHome: "/Users/tomohiro.zoda/Document"
+    disabledPackages: [
+      "vim-mode"
+      "linter-ruby"
+    ]
+  "exception-reporting":
+    userId: "f3669e9c-a0f9-3992-7b34-2ac1dc7bb386"
+  welcome:
+    showOnStartup: false
+  localization:
+    CurrentLanguage: "Japanese"
+  minimap:
+    plugins:
+      "git-diff": true
+      "highlight-selected": true
+  linter: {}
+  "show-ideographic-space": {}
+  "atom-beautify":
+    _analyticsUserId: "ff65e3c1-d9c6-438d-8ad8-01a1c5e04f9b"
+  "grunt-runner": {}
+  "japanese-wrap":
+    characterWidth: {}
+  docblockr: {}
+  "autoclose-html": {}
+  "linter-rubocop":
+    rubocopExecutablePath: "/Users/tomohiro.zoda/.rbenv/shims/rubocop"
+  "recent-files":
+    updated: false
+".perl.source":
+  editor:
+    tabLength: 4
